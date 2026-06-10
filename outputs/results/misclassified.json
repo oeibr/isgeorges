@@ -1,0 +1,152 @@
+[
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/045fee4943311234603fb1b63fd2aa3d.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.9385
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/04a20ccbf6656ae011d85666f6aeef35.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.9992
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/0c0d71e8d500bf247ae8f984a0a5e64a.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.803
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/10a6d89ccf6804553f2e52adf85e6b79.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.8285
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/23d79a09c8564e2346f850e57d47b300.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.9704
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/4cd4e2f0ad0992f8e20f21a68860834b.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.9979
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/5e6f1dc04663ac1536e2da2930fcc6f4.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.996
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/69a069b07674fd156cc65e24a7e4e839.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.9704
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/georges/ff9b76d96df38553ec400aed5862964d.jpg",
+    "true": "georges",
+    "pred": "non_georges",
+    "prob": 0.7152
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/0067c05256b4b0c40fef191d867f4fef.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.5739
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/29565e177590a5f5cdffd68f150fc71d.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.9703
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/7681f3b860cd64e5b55eef449c0c37c3.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.668
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/87dff1dbcc80d98f100111cade90e7be.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.5079
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/92cb59393f398e602f1975e8232a23ab.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.9917
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/cc030184daa06b0d8722de9eff7779f4.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.8333
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/de98f386a0c977e24a18141382956bb1.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.5592
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/dfe8cea1cc4055f205e8fd32b2e0e5a2.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.6018
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/e26c38e69076215e6a426c2eff1eafd8.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.9882
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/e7a974b0fc848dc69a27014bb2dc9aec.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.797
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/eb2640c41c4de1aa8cf4091f8a20d8bd.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.686
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/ef526c659be85bf224b9a2599b452fa4.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.8421
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/f09d5494456a4ea37279300cd6eae5ac.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.8439
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/f7fe9b34d868a2332fb11f3bb0e79936.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.568
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/fd57caffde9f1b928661a01879c9225e.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.7378
+  },
+  {
+    "path": "/Users/venbo/Desktop/SOLO/2c/data/test/non_georges/fda90e229235bc513a23d51dec5440db.jpg",
+    "true": "non_georges",
+    "pred": "georges",
+    "prob": 0.7555
+  }
+]

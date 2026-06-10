@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# macOS
+.DS_Store
+
+# Project data (too large, soft links only)
+data/
+georges/
+non_georges/
+
+# Outputs (checkpoints are large, keep logs/results structure)
+outputs/checkpoints/
